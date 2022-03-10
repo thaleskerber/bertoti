@@ -16,6 +16,6 @@
 
 * Diagrama de classes:
 
-  <img rc="março/03-03-2022/20220310_120003.jpg"/>
+  <img src="março/03-03-2022/20220310_120003.jpg"/>
 
   
