@@ -22,3 +22,6 @@
 
   <img src="março/03-03-2022/classe_PlataformaEnsino.png"/>
   
+<h2>* Classe "Aluno": </h2>
+
+  <img src="março/03-03-2022/classe_Aluno.png"/>
