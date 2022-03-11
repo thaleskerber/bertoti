@@ -25,3 +25,7 @@
 <h2>* Classe "Aluno": </h2>
 
   <img src="março/03-03-2022/classe_Aluno.png"/>
+    
+<h2>* Classe "Turma": </h2>
+
+  <img src="março/03-03-2022/classe_Turma.png"/>
