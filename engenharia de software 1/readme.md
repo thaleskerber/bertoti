@@ -18,4 +18,7 @@
 
   <img src="março/03-03-2022/20220311_073751.jpg"/>
 
+<h2>* Classe "PlataformaEnsino": </h2>
+
+  <img src="março/03-03-2022/classe_PlataformaEnsino.png"/>
   
