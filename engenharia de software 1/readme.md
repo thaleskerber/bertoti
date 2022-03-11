@@ -16,6 +16,6 @@
 
 <h2>* Diagrama de classes: </h2>
 
-  <img src="março/03-03-2022/20220311_073751.jpg.jpg"/>
+  <img src="março/03-03-2022/20220311_073751.jpg"/>
 
   
