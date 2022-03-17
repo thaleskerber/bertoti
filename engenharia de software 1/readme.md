@@ -9,7 +9,7 @@
 
   <img src="março/03-03-2022/Diagrama-de-Casos.png"/>
   
-<h2>* Telas (requisito não funcional): </h2>
+<h2>* Usabilidade (requisito não funcional): </h2>
 
   <img src="março/03-03-2022/Tela-Aluno.png"/>
   <img src="março/03-03-2022/Tela-Professor.png"/>
