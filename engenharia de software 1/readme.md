@@ -1,7 +1,7 @@
 <h1 align=center> Thales Wilson de Lucca Kerber - 1460482121005</h1>
 
 <h1>Ciclo de Vida de Desenvolvimento de Software
-             (Plataforma de Ensino)</h1>
+                        (Plataforma de Ensino)</h1>
 
 <h2>Atividade de Análise de Requisitos(03/03/2022)</h2>
 
