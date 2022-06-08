@@ -1,34 +1,34 @@
 <h1 align=center> Thales Wilson de Lucca Kerber - 1460482121005</h1>
 
-<h1>Ciclo de Vida de Desenvolvimento de Software (Plataforma de Ensino)</h1>
+# Ciclo de Vida de Desenvolvimento de Software (Plataforma de Ensino)
 
-<h2>Atividade de Análise de Requisitos (03/03/2022)</h2>
+## 📓 Atividade de Análise de Requisitos (03/03/2022)
 
-<h2>- Diagrama de caso (requisito funcional): </h2>
+> Diagrama de caso (requisito funcional):
 
-  <img src="março/03-03-2022/Diagrama-de-Casos.png"/>
+  <img src="images/diagramaUsos.png"/>
   
-<h2>- Usabilidade (requisito não funcional): </h2>
+> Usabilidade (requisito não funcional): 
 
-  <img src="março/03-03-2022/Tela-Aluno.png"/>
-  <img src="março/03-03-2022/Tela-Professor.png"/>
+  <img src="images/telaAluno.png"/>
+  <img src="images/telaProf.png"/>
 
-<h2>Atividade de Projeto de Sistema (10/03/2022)</h2>
+## 💻 Atividade de Projeto de Sistema (10/03/2022)
 
-<h2>- Diagrama de classes: </h2>
+> Diagrama de classes:
 
-  <img src="março/03-03-2022/20220311_073751.jpg"/>
+  <img src="images/diagramaClasses.jpg"/>
 
-<h2>Desenvolvimento de Sistema (11/03/2022)</h2>
+## 🖥 Desenvolvimento de Sistema (11/03/2022):
 
-<h2>- Classe "PlataformaEnsino": </h2>
+> Classe "PlataformaEnsino":
 
-  <img src="março/03-03-2022/classe_PlataformaEnsino.png"/>
+  <img src="images/classePlataformaEnsino.png"/>
   
-<h2>- Classe "Aluno": </h2>
+> Classe "Aluno":
 
-  <img src="março/03-03-2022/classe_Aluno.png"/>
+  <img src="images/classeAluno.png"/>
     
-<h2>- Classe "Turma": </h2>
+> Classe "Turma":
 
-  <img src="março/03-03-2022/classe_Turma.png"/>
+  <img src="images/classeTurma.png"/>
