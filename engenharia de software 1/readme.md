@@ -9,9 +9,12 @@
   <img src="images/diagramaCasos.png"/>
   
 > Usabilidade (requisito não funcional): 
-
-  <img src="images/telaAluno.png"/>
-  <img src="images/telaProf.png"/>
+ 
+### Tela Aluno
+  <img src="images/telaDeAluno.png"/>
+  
+### Tela Professor
+  <img src="images/telaProfessor.png"/>
 
 ## 💻 Atividade de Projeto de Sistema (10/03/2022)
 
