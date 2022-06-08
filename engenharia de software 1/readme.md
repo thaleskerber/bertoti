@@ -6,7 +6,7 @@
 
 > Diagrama de caso (requisito funcional):
 
-  <img src="images/diagramaUsos.png"/>
+  <img src="images/diagramaCasos.png"/>
   
 > Usabilidade (requisito não funcional): 
 
