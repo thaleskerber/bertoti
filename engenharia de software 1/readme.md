@@ -150,3 +150,7 @@ public class Turma {
 }
 
    ```
+
+## Códigos API
+
+> Códigos disponíveis em: [API](https://github.com/thaleskerber/bertoti/blob/main/engenharia%20de%20software%201/api.md)
