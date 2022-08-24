@@ -47,10 +47,10 @@ Forneça alternativas de texto para qualquer conteúdo que não seja de texto pa
 
 Exemplo:
 
-`<img alt="Torre Eiffel" src="./ihc/images/torre_eiffel.png">`
+`<img alt="Torre Eiffel" src="./images/torre_eiffel.png">`
 
 <div align="center">
-  <img width="700px" alt="Torre Eiffel" src="./ihc/images/torre_eiffel.png">
+  <img width="700px" alt="Torre Eiffel" src="./images/torre_eiffel.png">
 </div>
 
 <br>
@@ -62,7 +62,7 @@ Forneça alternativas para mídia baseada em tempo.
 Exemplo com legenda pré-gravada:
 
 <div align="center">
-  <img width="700px" alt="Legenda em vídeo do YouTube" src="./ihc/images/legenda_youtube.png">
+  <img width="700px" alt="Legenda em vídeo do YouTube" src="./images/legenda_youtube.png">
 </div>
 
 <br>
