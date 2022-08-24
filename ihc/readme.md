@@ -43,25 +43,26 @@
 <h2 id="1.perceptivel">1. Perceptível</h2>
 
 <h3 id="1.1_alternativas_de_texto">1.1 Alternativas de Texto</h3>
-É muito importante disponibilizar alternativas de texto para conteúdos não textuais como imagens por exemplo, issi facilita o entendimento do usuário caso o conteúdo precise ser alterado para outras formas, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
+Forneça alternativas de texto para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
 
-Exemplo implemetação:
+Exemplo:
 
-`<img alt="Agentes polinizadores"src="./IHC/imagens_exemplos/tag_alt_img.png">`
+`<img alt="Torre Eiffel" src="./ihc/images/torre_eiffel.png">`
 
 <div align="center">
-  <p> Colocar imagem aqui<img width="700px" src="./IHC/imagens_exemplos/tag_alt_img.png"></p>
+  <img width="700px" alt="Torre Eiffel" src="./ihc/images/torre_eiffel.png">
 </div>
 
 <br>
 
 <h3 id="1.2_midia_baseada_em_tempo">1.2 Mídia Baseada em Tempo</h3>
 
-Forneça legendas e transcrições para conteúdo de áudio e vídeo pré-gravado ou ao vivo, isso o torna acessível para usuários com perda auditiva ou problemas de compreensão da fala.  
-O exemplo utilizado vem de um dos meus canais preferidos e nesse vídeo eles contextualizam o termo <a href="https://www.youtube.com/watch?v=U1kKWqlfxnk">UX</a>
+Forneça alternativas para mídia baseada em tempo.
+
+Exemplo com legenda pré-gravada:
 
 <div align="center">
-
+  <img width="700px" alt="Legenda em vídeo do YouTube" src="./ihc/images/legenda_youtube.png">
 </div>
 
 <br>
