@@ -174,7 +174,7 @@ Exemplo:
 
 <h2 id="4.robusto">4. Robusto</h2>
 
-<h3 id="4.1_compativel">4.1 Compativel</h3>
+<h3 id="4.1_compativel">4.1 Compatível</h3>
 O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
 
 O <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br">Google Lighthouse</a> é uma ferramenta automatizada que permite medir a qualidade das páginas da web. Ele pode ser executado em qualquer página da Web, pública ou que exija autenticação.Suas funcionalidades premitem auditar o desempenho, a acessibilidade e a otimização do mecanismo de pesquisa de páginas da web.
