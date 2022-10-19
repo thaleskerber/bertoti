@@ -73,7 +73,7 @@ garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder i
 Exemplos: O conteúdo da página não se restringe a somente uma forma de exibição (como paisagem ou retrato), a menos que uma orientação de exibição seja específica seja definida previamente. O layout deve se adequar ao tamanho da viwport como podemos observar
 
 <div align="center">
-  <img width="700px" src="./images/adaptavel.png">
+  <img width="700px" src="./images/adaptavel.jpg">
 </div>
 
 <br>
@@ -82,7 +82,7 @@ Exemplos: O conteúdo da página não se restringe a somente uma forma de exibi�
 Faça com que seja simples para o seu usuário ver e ouvir o conteúdo, incluindo a distinção do primeiro plano do plano de fundo.
 
 <div align="center">
-  <img width="700px" src="./images/distinguivel.png">
+  <img width="700px" src="./images/distinguivel.jpg">
 </div>
 
 
