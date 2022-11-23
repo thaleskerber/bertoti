@@ -85,7 +85,7 @@ Exemplo de NÃO USO:
 <br>
 
 <h3 id="1.3_adaptavel">1.3 Adaptável</h3>
-Garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder informações ou estrutura. O conteúdo da página não se restringe a somente uma forma de exibição (como paisagem ou retrato), a menos que uma orientação de exibição seja específica seja definida previamente. O layout deve se adequar ao tamanho da viwport como podemos observar
+Garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder informações ou estrutura. O conteúdo da página não se restringe a somente uma forma de exibição (como paisagem ou retrato), a menos que uma orientação de exibição seja específica seja definida previamente. 
 
 Exemplo de site adaptável (responsivo):
 
@@ -128,45 +128,36 @@ Exemplo de NÃO distinguível:
 <h3 id="2.1_teclado_acessivel">2.1 Teclado Acessível</h3>  
 Todas as funcionalidades devem ser interativas a partir de um teclado.
 
-Exemplo:
+Exemplo de uso de teclas de atalho no twitter:
 
 <div align="center">
-  
+  <img width="700px" src="./images/exemploTeclado.jpg">
 </div>
+
 
 <br>
 
 <h3 id="2.2_tempo_suficiente">2.2 Tempo Suficiente</h3>
 Permita que os conteúdos a serem exibidos permaneçam na tela por tempo suficiente para que possam ser lidos.
 
-Exemplo:
+Exemplo de uso em vídeos do youtube:
 
 <div align="center">
-
+  <img width="700px" src="./images/exemploTempoSuficiente.jpg">
 </div>
-
 <br>
 
 <h3 id="2.3_convulsoes_e_reacoes_fisicas">2.3 Convulsões e Reações Fisícas</h3>
 A epilepsia fotossensível é uma condição em que as convulsões são desencadeadas por luzes intermitentes ou padrões contrastantes de luz e escuridão. Tendo em mente essa condição o uso de luzes e super-estímulos vizuais devem ser evitados, caso não seja posível devemos aletar o usuário antes que ele seja exposto a esse típo de conteúdo.
 
-Exemplo retirado de um site divertido onde ao há minhoquinha interativa na tela que se mexe de acordo com a velocidade em que movimentamos o mouse, comforme a velocidade aumenta luzes começam a piscar freneticamente no bacground.
-
-<div align="center">
-
-</div>
-
-
-
-<br>
 
 <h3 id="2.4_navegavel">2.4 Navegável</h3>
 Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determinar os passos seguintes para chegar ao seu objetivo.
 
-Exemplo: Aqui podemos ver o passo a passo dos dados que precisam ser preenchidos até o envio do formulário.
+Exemplo de formulário navegável:
 
 <div align="center">
-
+    <img width="700px" src="./images/exemploNavegavel.png">
 </div>
 
 <br>
@@ -215,12 +206,14 @@ Exemplo:
 <br>
 
 <h2 id="4.robusto">4. Robusto</h2>
-
-<h3 id="4.1_compativel">4.1 Compatível</h3>
 O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
 
-O <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br">Google Lighthouse</a> é uma ferramenta automatizada que permite medir a qualidade das páginas da web. Ele pode ser executado em qualquer página da Web, pública ou que exija autenticação.Suas funcionalidades premitem auditar o desempenho, a acessibilidade e a otimização do mecanismo de pesquisa de páginas da web.
+<h3 id="4.1_compativel">4.1 Compatível</h3>
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
+
+Exemplo:
 
 <div align="center">
-  <img width="700px" src="./images/exemploGoogleLighthouse.jpeg">
+  <img width="700px" src="./images/exemploCompativel.jpg">
 </div>
+
