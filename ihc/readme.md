@@ -178,10 +178,16 @@ Exemplo: Aqui podemos ver o passo a passo dos dados que precisam ser preenchidos
 <h3 id="3.1_legivel">3.1 Legível</h3>
 A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
 
-Exemplo:
+Exemplo de USO:
 
 <div align="center">
-  
+  <img width="700px" src="./images/exemploLegivel.png">
+</div>
+
+Exemplo de NÃO USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemLegivel.png">
 </div>
 
 <br>
@@ -189,21 +195,21 @@ Exemplo:
 <h3 id="3.2_previsivel">3.2 Previsível</h3>
 Páginas da Web, aplicativos e interfaces online devem ser intuitivos e previsíveis em como funcionam. Os sites geralmente têm uma estrutura definida. Isso ajuda as pessoas a encontrar facilmente informações desejadas.
 
-Exemplo:
+Exemplo de USO e NÃO USO:
 
 <div align="center">
-
+  <img width="700px" src="./images/exemploIntuitiva.jpg">
 </div>
 
 <br>
 
-<h3 id="3.3_assistencia_de_entrada">Assistência de Entrada</h3>
+<h3 id="3.3_assistencia_de_entrada">3.3 Assistência de Entrada</h3>
 Ajude o usuário a evitar, buscar e corrigir os erros.
 
 Exemplo:
 
 <div align="center">
-
+  <img width="700px" src="./images/exemploAssistenciaEntrada.jpg">
 </div>
 
 <br>
@@ -216,5 +222,5 @@ O conteúdo deve ser robusto o suficiente para que possa ser interpretado por um
 O <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br">Google Lighthouse</a> é uma ferramenta automatizada que permite medir a qualidade das páginas da web. Ele pode ser executado em qualquer página da Web, pública ou que exija autenticação.Suas funcionalidades premitem auditar o desempenho, a acessibilidade e a otimização do mecanismo de pesquisa de páginas da web.
 
 <div align="center">
-
+  <img width="700px" src="./images/exemploGoogleLighthouse.jpeg">
 </div>
