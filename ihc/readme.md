@@ -10,7 +10,7 @@
 <ul>
   <li>1.1<a href="#1.1_alternativas_de_texto"> Alternativas de texto </a></li>
   <li>1.2<a href="#1.2_midia_baseada_em_tempo"> Mídia baseada em tempo </a></li>
-  <li>1.3<a href="#1.3_adaptavel"> Adptável </a></li>
+  <li>1.3<a href="#1.3_adaptavel"> Adaptável </a></li>
   <li>1.4<a href="#1.4_distinguivel"> Distinguível </a></li>
 </ul>
 
@@ -143,7 +143,7 @@ Permita que os conteúdos a serem exibidos permaneçam na tela por tempo suficie
 Exemplo de uso em vídeos do youtube:
 
 <div align="center">
-  <img width="700px" src="./images/exemploTempoSuficiente.jpg">
+  <img width="700px" src="./images/exemploTempoSuficiente.png">
 </div>
 <br>
 
@@ -214,6 +214,6 @@ No conteúdo implementado usando linguagens de marcação, as mensagens de statu
 Exemplo:
 
 <div align="center">
-  <img width="700px" src="./images/exemploCompativel.jpg">
+  <img width="700px" src="./images/exemploCompativel.png">
 </div>
 
