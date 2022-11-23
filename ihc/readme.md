@@ -45,7 +45,7 @@
 <h3 id="1.1_alternativas_de_texto">1.1 Alternativas de Texto</h3>
 Forneça alternativas de texto para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
 
-Exemplo:
+Exemplo de USO:
 
 `<img alt="Torre Eiffel" src="./images/torre_eiffel.png">`
 
@@ -53,27 +53,52 @@ Exemplo:
   <img width="700px" alt="Torre Eiffel" src="./images/torre_eiffel.png">
 </div>
 
-<br>
+Exemplo de NÃO USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemAlt.jpg">
+  <br />
+  <h4>Imagem sem a tag ALT definida, encontrada no site da Fatec São José dos Campos</h4>
+</div>
+
+<br />
 
 <h3 id="1.2_midia_baseada_em_tempo">1.2 Mídia Baseada em Tempo</h3>
 
 Forneça alternativas para mídia baseada em tempo.
 
-Exemplo com legenda pré-gravada:
+Exemplo COM legenda pré-gravada:
 
 <div align="center">
   <img width="700px" alt="Legenda em vídeo do YouTube" src="./images/legenda_youtube.png">
 </div>
 
+Exemplo de NÃO USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemLegenda.png">
+  <br />
+  <h4>Vídeo sem legenda, encontrado no feed do Instagram</h4>
+</div>
+
+
 <br>
 
-<h3 id="1.3_adaptavel">1.3 Adptável</h3>
-garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder informações ou estrutura.
+<h3 id="1.3_adaptavel">1.3 Adaptável</h3>
+Garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder informações ou estrutura. O conteúdo da página não se restringe a somente uma forma de exibição (como paisagem ou retrato), a menos que uma orientação de exibição seja específica seja definida previamente. O layout deve se adequar ao tamanho da viwport como podemos observar
 
-Exemplos: O conteúdo da página não se restringe a somente uma forma de exibição (como paisagem ou retrato), a menos que uma orientação de exibição seja específica seja definida previamente. O layout deve se adequar ao tamanho da viwport como podemos observar
+Exemplo de site adaptável (responsivo):
 
 <div align="center">
   <img width="700px" src="./images/adaptavel.jpg">
+</div>
+
+Exemplo de NÃO responsividade:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemResponsividade.png">
+  <br />
+  <h4>Página sem responsividade para dispositivos móveis, encontrada no site da Sabesp.</h4>
 </div>
 
 <br>
@@ -81,8 +106,18 @@ Exemplos: O conteúdo da página não se restringe a somente uma forma de exibi�
 <h3 id="1.4_distinguivel">1.4 Distinguível</h3>
 Faça com que seja simples para o seu usuário ver e ouvir o conteúdo, incluindo a distinção do primeiro plano do plano de fundo.
 
+Exemplo de site distinguível:
+
 <div align="center">
   <img width="700px" src="./images/distinguivel.jpg">
+</div>
+
+Exemplo de NÃO distinguível:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemDistinguivel.png">
+  <br />
+  <h4>Nessa parte da página home percebe-se que o branco do notebook da imagem não se distingue do fundo branco da página, encontrada no site da Sabesp.</h4>
 </div>
 
 
