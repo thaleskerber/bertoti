@@ -81,7 +81,7 @@ Garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder i
 Exemplo de site adaptável (responsivo):
 
 <div align="center">
-  <img width="700px" src="./images/exemploResponsivel.png">
+  <img width="700px" src="./images/exemploResponsivo.png">
   <br />
   <h4>Site construído de forma responsiva, onde o conteúdo se manteve com boa apresentação tanto em desktop quanto em celulares, exemplo encontrado no site da loja Fast Shop.</h4>
 </div>
@@ -102,7 +102,7 @@ Faça com que seja simples para o seu usuário ver e ouvir o conteúdo, incluind
 Exemplo de site distinguível:
 
 <div align="center">
-  <img width="700px" src="./images/exemploDistinguivel.jpg">
+  <img width="700px" src="./images/exemploDistinguivel.png">
   <br />
   <h4>Página em que palavras de destaque são distinguíveis, exemplo encontrado em uma matéria do G1.</h4>
 </div>
