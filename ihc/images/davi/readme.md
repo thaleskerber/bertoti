@@ -81,7 +81,7 @@ Garanta que o conteúdo possa ser apresentado em diferentes layouts sem perder i
 Exemplo de site adaptável (responsivo):
 
 <div align="center">
-  <img width="700px" src="./images/exemploResponsivel.jpg">
+  <img width="700px" src="./images/exemploResponsivel.png">
   <br />
   <h4>Site construído de forma responsiva, onde o conteúdo se manteve com boa apresentação tanto em desktop quanto em celulares, exemplo encontrado no site da loja Fast Shop.</h4>
 </div>
