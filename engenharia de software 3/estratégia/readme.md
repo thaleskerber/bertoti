@@ -4,7 +4,7 @@
 <h4>. Diagrama UML</h4>
 <br />
 <div align="center">
-  <img width="700px" alt="Diagrama UML" src="./images/umlStrategyPattern.png">
+  <img height="500px" alt="Diagrama UML" src="./images/stratyPattern.png">
 </div>
 
 <br />
