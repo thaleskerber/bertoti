@@ -15,6 +15,19 @@
 <br />
 <br />
 
+Classe Main
+```java
+public class Main {
+
+  public static void main(String[] args) {
+    Administrador administrador = new Administrador();
+  
+    Acesso acesso = new Acesso(administrador);
+    acesso.acessar();
+  }
+}
+```
+
 Classe Acesso
 ```java
 public class Acesso {
