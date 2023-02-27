@@ -4,7 +4,7 @@
 <h4>. Diagrama UML</h4>
 <br />
 <div align="center">
-  <img height="500px" alt="Diagrama UML" src="./images/stratyPattern.png">
+  <img height="500px" alt="Diagrama UML" src="./images/diagramaUmlEstrategiaII.png">
 </div>
 
 <br />
@@ -22,7 +22,7 @@ public class Main {
   public static void main(String[] args) {
     Administrador administrador = new Administrador();
   
-    Acesso acesso = new Acesso(administrador);
+    Usuario acesso = new Acesso(administrador);
     acesso.acessar();
   }
 }
@@ -30,10 +30,10 @@ public class Main {
 
 Classe Acesso
 ```java
-public class Acesso {
+public class Usuario {
   private TipoAcesso tipoAcesso;
   
-  public Acesso(TipoAcesso tipoAcesso){
+  public Usuario(TipoAcesso tipoAcesso){
     this.tipoAcesso = tipoAcesso;
   }
   
@@ -61,9 +61,9 @@ public class Administrador implements TipoAcesso {
 }
 ```
 
-Classe Usuario
+Classe Padrao
 ```java
-public class Usuario implements TipoAcesso {
+public class Padrao implements TipoAcesso {
   public void acessar(){
     System.out.print("Acessado com um usuário!");
   }
