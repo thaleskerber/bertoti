@@ -4,7 +4,7 @@
 <h4>. Diagrama UML</h4>
 <br />
 <div align="center">
-  <img height="500px" alt="Diagrama UML" src="./images/stratyPattern.png">
+  <img height="500px" alt="Diagrama UML" src="./images/diagramaUmlEstrategiaI.png">
 </div>
 
 <br />
@@ -28,9 +28,9 @@ public class Main {
 }
 ```
 
-Classe Acesso
+Classe Usuario
 ```java
-public class Acesso {
+public class Usuario {
   private TipoAcesso tipoAcesso;
   
   public Acesso(TipoAcesso tipoAcesso){
@@ -56,16 +56,16 @@ Classe Administrador
 ```java
 public class Administrador implements TipoAcesso {
   public void acessar(){
-    System.out.print("Acessado com um administrador!");
+    System.out.print("Acessado como um administrador!");
   }
 }
 ```
 
-Classe Usuario
+Classe Padrao
 ```java
-public class Usuario implements TipoAcesso {
+public class Padrao implements TipoAcesso {
   public void acessar(){
-    System.out.print("Acessado com um usuário!");
+    System.out.print("Acessado com o tipo padrão!");
   }
 }
 ```
