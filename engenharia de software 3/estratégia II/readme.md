@@ -22,7 +22,7 @@ public class Main {
   public static void main(String[] args) {
     Administrador administrador = new Administrador();
   
-    Usuario acesso = new Acesso(administrador);
+    Usuario acesso = new Usuario("João", administrador);
     acesso.acessar();
   }
 }
@@ -32,9 +32,11 @@ Classe Acesso
 ```java
 public class Usuario {
   private TipoAcesso tipoAcesso;
+  private String nome;
   
-  public Usuario(TipoAcesso tipoAcesso){
+  public Usuario(String nome, TipoAcesso tipoAcesso){
     this.tipoAcesso = tipoAcesso;
+    this.nome = nome;
   }
   
   public void acessar(){
