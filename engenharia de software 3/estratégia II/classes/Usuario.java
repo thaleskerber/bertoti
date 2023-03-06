@@ -37,4 +37,8 @@ public class Usuario {
     public void adicionarNotificacao(String message){
         notificacoes.add(message);
     }
+    
+    public void setTipoUsuario(TipoUsuario tipoUsuario){
+        this.tipoUsuario = tipoUsuario;
+    }
 }
