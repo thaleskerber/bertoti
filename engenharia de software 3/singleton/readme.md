@@ -5,6 +5,6 @@
 
 <div align="center">
 
-  ![singleton](https://user-images.githubusercontent.com/26208169/229823451-d727b54e-a2e4-41f9-9e93-af9480f242f0.png)
-
+![singleton](https://github.com/thaleskerber/bertoti/assets/26208169/1e1745d9-fc46-4c44-99c1-10e572e7ff56)
+  
 </div>
