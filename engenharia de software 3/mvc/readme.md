@@ -5,6 +5,6 @@
 
 <div align="center">
 
-  ![mvc](https://github.com/thaleskerber/bertoti/assets/26208169/f5b92db5-c3bc-4abb-bb49-71b6e13ae864)
+![diagrama mvc](https://github.com/thaleskerber/bertoti/assets/26208169/c0793125-4ca0-4b22-9310-31342764205f)
 
 </div>
